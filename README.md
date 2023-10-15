@@ -18,11 +18,16 @@ The dataset comprises two main components:
 - `hatespeech_or_not`: Indicates whether the reply contains hate speech(1) or not(0).
 
 ## Data Collection
+
 Data was gathered using the YouTube Data API, covering videos posted between January 2022 and April 2022. In total, the dataset includes 4,165 comments and 11,310 replies from 210 videos, with the breakdown as follows:
-<English>
+
+### English
+
 - CNN: 46 videos, 935 comments, 2,499 replies
 - Fox News: 44 videos, 980 comments, 2,592 replies
-<Korean>
+
+### Korean
+
 - JTBC: 45 videos, 1,018 comments, 3,496 replies
 - TV Chosun: 75 videos, 1,232 comments, 2,723 replies
 
