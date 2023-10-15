@@ -42,6 +42,6 @@ The main contributors of the work are:
 
 - Kyuhan Lee
 - Hyoungjun Park
-- Hosung Shim
+- Ho sung Shim
 - Jangsun Park
 - Hyerin Kim
