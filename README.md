@@ -40,8 +40,8 @@ The primary objective of this dataset is to label comments as hate instigating s
 ## Contributors
 The main contributors of the work are:
 
-Kyuhan Lee
-Hyoungjun Park
-Hosung Shim
-Jangsun Park
-Hyerin Kim
+** Kyuhan Lee
+** Hyoungjun Park
+** Hosung Shim
+** Jangsun Park
+** Hyerin Kim
