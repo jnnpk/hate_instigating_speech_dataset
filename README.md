@@ -18,7 +18,7 @@ The dataset comprises two main components:
 - `hatespeech_or_not`: Indicates whether the reply contains hate speech or not.
 
 ## Data Collection
-The dataset was collected from major news media companies' YouTube channels in the United States and South Korea. Specifically, the channels included were CNN, Fox News, JTBC, and TV Chosun, providing a diversity of political perspectives. Data was gathered using the YouTube Data API, covering videos posted between January 2022 and April 2022. In total, the dataset includes 4,165 comments and 11,310 replies from 210 videos, with the breakdown as follows:
+The dataset was collected from major news media companies' YouTube channels in the United States and South Korea. Specifically, the channels included were CNN, Fox News, JTBC, and TV Chosun. Data was gathered using the YouTube Data API, covering videos posted between January 2022 and April 2022. In total, the dataset includes 4,165 comments and 11,310 replies from 210 videos, with the breakdown as follows:
 - CNN: 46 videos, 935 comments, 2,499 replies
 - Fox News: 44 videos, 980 comments, 2,592 replies
 - JTBC: 45 videos, 1,018 comments, 3,496 replies
@@ -27,9 +27,9 @@ The dataset was collected from major news media companies' YouTube channels in t
 ## Annotation Process
 The primary objective of this dataset is to label comments as hate instigating speech or not. The annotation process involved two key steps:
 
-1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech. This step aimed to understand the nature of user-generated responses to the original comments.
+1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech. 
 
-2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies. This metric helps assess the extent to which a comment may incite or provoke hate speech from others.
+2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies.
 
 ## Hate Speech Definitions
 
