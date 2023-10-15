@@ -36,3 +36,12 @@ The primary objective of this dataset is to label comments as hate instigating s
 - **Hate Speech:** Speech that deliberately targets a specific group or individual for condemnation. This includes but is not limited to sexism, homophobia, and hate towards certain political groups. Additionally, aggressive speech without a specific target also falls under this category.
 
 - **Non-Hate Speech:** Speech that does not fall under the above categories. Criticism and sarcasm are examples of non-hate speech.
+
+## Contributors
+The main contributors of the work are:
+
+Kyuhan Lee
+Hyoungjun Park
+Hosung Shim
+Jangsun Park
+Hyerin Kim
