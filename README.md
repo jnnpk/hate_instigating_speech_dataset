@@ -38,7 +38,7 @@ The primary objective of this dataset is to label comments as hate instigating s
 - **Non-Hate Speech:** Speech that does not fall under the above categories. Criticism and sarcasm are examples of non-hate speech.
 
 ## Contributors
-The main contributors of the work are:
+The primary contributors for this project can be found in the Information Systems(IS) department at Korea University:
 
 - Kyuhan Lee
 - Hyoungjun Park
