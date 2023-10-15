@@ -32,7 +32,6 @@ The primary objective of this dataset is to label comments as hate instigating s
 2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies. This metric helps assess the extent to which a comment may incite or provoke hate speech from others.
 
 ## Hate Speech Definitions
-To ensure consistent annotation, the dataset creators relied on existing literature to define hate speech and non-hate speech:
 
 - **Hate Speech:** Speech that deliberately targets a specific group or individual for condemnation. This includes but is not limited to sexism, homophobia, and hate towards certain political groups. Additionally, aggressive speech without a specific target also falls under this category.
 
