@@ -9,13 +9,13 @@ The dataset comprises two main components:
 ### Hate Instigating Comments
 - `commentID`: Unique identifier for each comment.
 - `comment_text`: The text of the comment.
-- `hate_instigation_level`: A measure of the comment's potential to incite hate speech.
-- `hatespeech_or_not`: Indicates whether the comment contains hate speech or not.
+- `hate_instigation_level`: A measure of the comment's potential to incite hate speech(0~1).
+- `hatespeech_or_not`: Indicates whether the comment contains hate speech(1) or not(0).
 
 ### Hate Replies
 - `replyID`: Unique identifier for each reply.
 - `reply_text`: The text of the reply.
-- `hatespeech_or_not`: Indicates whether the reply contains hate speech or not.
+- `hatespeech_or_not`: Indicates whether the reply contains hate speech(1) or not(0).
 
 ## Data Collection
 The dataset was collected from major news media companies' YouTube channels in the United States and South Korea. Specifically, the channels included were CNN, Fox News, JTBC, and TV Chosun. Data was gathered using the YouTube Data API, covering videos posted between January 2022 and April 2022. In total, the dataset includes 4,165 comments and 11,310 replies from 210 videos, with the breakdown as follows:
@@ -27,7 +27,7 @@ The dataset was collected from major news media companies' YouTube channels in t
 ## Annotation Process
 The primary objective of this dataset is to label comments as hate instigating speech or not. The annotation process involved two key steps:
 
-1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech. 
+1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech by three major annotators through voting.
 
 2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies.
 
