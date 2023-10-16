@@ -41,6 +41,7 @@ The primary objective of this dataset is to label comments as hate instigating s
 ## Hate Speech Definitions
 
 **Hate Speech:** Speech that deliberately targets a specific group or individual for condemnation. This includes but is not limited to sexism, homophobia, and hate towards certain political groups. Additionally, aggressive speech without a specific target also falls under this category.
+
   Examples:
 - Explicit hatred towards a particular group: "INDIA + CHINA = DISGUSTING RAT EATING 3RD WORLD COUNTRIES!"
 - Hate towards a political group: "Biden Is the biggest Disaster in American History 😫"
@@ -48,6 +49,7 @@ The primary objective of this dataset is to label comments as hate instigating s
 - General aggression: "YouTube comments are such a cesspit."
 
 **Non-Hate Speech:** Speech that does not fall under the above categories. Criticism and sarcasm are examples of non-hate speech.
+
   Examples:
 - Sarcasm: "Wow, what a surprise, American."
 - Criticism: "I'm part Russian and absolutely disappointed in this whole war!"
