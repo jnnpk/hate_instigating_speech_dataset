@@ -34,7 +34,7 @@ Data was gathered using the YouTube Data API, covering videos posted between Jan
 ## Annotation Process
 The primary objective of this dataset is to label comments as hate instigating speech or not. The annotation process involved two key steps:
 
-1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech by three major annotators through voting.
+1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech by three annotators through majority vote.
 
 2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies.
 
