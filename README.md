@@ -32,11 +32,11 @@ Data was gathered using the YouTube Data API, covering videos posted between Jan
 - TV Chosun: 75 videos, 1,232 comments, 2,723 replies
 
 ## Annotation Process
-The primary objective of this dataset is to label comments as hate instigating speech or not. The annotation process involved two key steps:
+The primary objective of this dataset is to label comments as hate instigating speech or not. Specifically, by examining the level of hatred presented in the replies to a comment, we can identify the level of hate instigation associated with that comment. The annotation process involved two key steps:
 
-1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech by three annotators through majority vote.
+1. **Labeling Replies:** Replies associated with each comment were labeled as either hate speech or non-hate speech by three annotators through majority voting.
 
-2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level was determined by examining the ratio of hate replies to the total number of replies.
+2. **Measuring Hate Speech Instigation:** The level of hate speech instigation at the comment level can be determined by examining the ratio of hate replies to the total number of replies. Nevertheless, the approach to defining hate speech instigation may vary. Rather than assigning a continuous ratio of hate speech instigation levels to comments, they can alternatively be categorized into binary labels based on a specific threshold.
 
 ## Hate Speech Definitions
 
