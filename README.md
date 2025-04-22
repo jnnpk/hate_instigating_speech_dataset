@@ -4,7 +4,7 @@
 The Hate Instigating Speech Dataset is a collection of comments and replies from YouTube news channels, including CNN and Fox News in English and JTBC and TV Chosun in Korean. The dataset aims to provide a comprehensive resource for studying hate speech and its instigation in online discussions. It includes both raw data from the original sources and cleansed data that removes HTML entities. The dataset is organized at both the comment and reply levels to analyze the impact of comments on subsequent replies. 
 
 ## Paper
-[Paper](https://aclanthology.org/2023.findings-emnlp.412.pdf)
+[Uncovering the Root of Hate Speech: A Dataset for Identifying Hate Instigating Speech](https://aclanthology.org/2023.findings-emnlp.412.pdf)
 
 ## Data Structure
 The dataset comprises two main components:
